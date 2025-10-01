@@ -4,7 +4,7 @@ Saya Mahasiswa Teknik Informatika
 
 📚 Saat ini saya sedang mengikuti kelas pemrograman mobile:
 
-| No | Praktikum ke | Topik                                                                 | Modul     | Repository |
+| No | Praktikum ke | Topik                                                                 | Laporan    | Repository |
 |----|--------------|------------------------------------------------------------------------|-----------|-----------------|
 | 1  | 01           | Pengenalan Mobile Programming dan Setup Lingkungan                     | [Modul 01](https://drive.google.com/file/d/1tnRWKf3rXeob56NUDLKrJgJks8mnVmsJ/view?usp=sharing) | [Modul1](https://github.com/Hakimrafi87/Modul1) |
 | 2  | 01           | Widget Row dan Column                                                 | [Modul 02](https://drive.google.com/file/d/1MSCg_LQudhcdjrwu7oqVK9S1j0RTfOBO/view?usp=sharing) | [Modul2](https://github.com/Hakimrafi87/Modul2) |
